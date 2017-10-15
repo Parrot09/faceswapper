@@ -20,7 +20,7 @@ def shape_to_np(shape, dtype="int"):
 source_file = 'bill-gates.jpg'
 target_file = 'steve-jobs.jpg'
 
-app = ClarifaiApp(api_key='a2689fbac33a4b96b49daab05d323cb5')
+app = ClarifaiApp(api_key='API_KEY')
 
 model = app.models.get('face-v1.3')
 

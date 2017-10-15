@@ -1,5 +1,8 @@
 # Face Swapper
 
+![Alt text](./bill-steve.jpg?raw=true "Example")
+
+
 ## About
 
 Project for HackNY 2017.
@@ -34,8 +37,3 @@ target_file = 'steve-jobs.jpg'
 ```
 
 to try this with other images
-
-
-## Sample
-
-![Alt text](./bill-steve.jpg?raw=true "Example")

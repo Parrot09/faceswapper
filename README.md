@@ -11,7 +11,7 @@ Swaps faces between two images. Requires a source image and a destination image.
 
 ## How it works
 
-Uses the Clarifai face recognition model to detect faces in both images. Then uses dlib to detect facial landmarks in the source image. Extracts only the landmarks by creating a convex hull on the points using OpenCV and then applies the resulting image on each face's bounding box in the target image.
+Uses the Clarifai face recognition model to detect faces in both images. Then uses dlib to detect facial landmarks in the source image. Extracts only the landmarks by creating a convex hull around the landmark points using OpenCV. Applies these landmarks on the destination image.
 
 ## Dependencies
 

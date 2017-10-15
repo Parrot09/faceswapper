@@ -12,9 +12,9 @@ Uses the Clarifai face recognition model to detect faces in both images. Then us
 
 ## Dependencies
 
-- [Clarifai][https://www.clarifai.com/]
-- [dlib][http://dlib.net/]
-- [OpenCV][https://opencv.org/]
+- [Clarifai](https://www.clarifai.com/)
+- [dlib](http://dlib.net/)
+- [OpenCV](https://opencv.org/)
 
 ## Running
 
@@ -38,3 +38,4 @@ to try this with other images
 
 ## Sample
 
+![Alt text](./bill-steve.jpg?raw=true "Example")

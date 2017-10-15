@@ -5,9 +5,9 @@
 
 ## About
 
-Project for HackNY 2017.
+Python program to swap faces between two images. Requires a source image and a destination image. The destination image can contain multiple faces. 
 
-Swaps faces between two images. Requires a source image and a destination image. The destination image can contain multiple faces. 
+Created for HackNY 2017
 
 ## How it works
 

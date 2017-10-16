@@ -2,7 +2,7 @@
 
 
 <a href="url"><img src="https://github.com/bluerama/faceswapper/blob/master/bill-steve.jpg" alt="Bill Gates and Steve Jobs" width="400" height="400"></a>
-<a href="url"><img src="https://github.com/bluerama/faceswapper/blob/master/trump-putin.jpg" alt="Donald Trump and Vladimir Putin" width="250" height="400"></a>
+<a href="url"><img src="https://github.com/bluerama/faceswapper/blob/master/trump-putin.jpg" alt="Donald Trump and Vladimir Putin" width="400" height="400"></a>
 
 ## About
 

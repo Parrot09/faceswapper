@@ -1,9 +1,8 @@
 # Face Swapper
 
-![Alt text](./bill-steve.jpg?raw=true "Bill Gates and Steve Jobs" | width=100)
-![Alt text](./trump-putin.jpg?raw=true "Donald Trump and Vladimir Putin" | width=100)
-<img src="./bill-steve.jpg", alt="Bill Gates and Steve Jobs" width="100">
-<img src="./trump-putin.jpg", alt="Donald Trump and Vladimir Putin" width="100">
+
+<img src="https://github.com/bluerama/faceswapper/blob/master/bill-steve.jpg", alt="Bill Gates and Steve Jobs" width="100">
+<img src="https://github.com/bluerama/faceswapper/blob/master/trump-putin.jpg", alt="Donald Trump and Vladimir Putin" width="100">
 
 ## About
 

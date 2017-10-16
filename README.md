@@ -1,8 +1,8 @@
 # Face Swapper
 
 
-<a href="url"><img src="https://github.com/bluerama/faceswapper/blob/master/bill-steve.jpg", alt="Bill Gates and Steve Jobs" width="100" height="250"></a>
-<a href="url"><img src="https://github.com/bluerama/faceswapper/blob/master/trump-putin.jpg", alt="Donald Trump and Vladimir Putin" width="100" height="250"></a>
+<a href="url"><img src="https://github.com/bluerama/faceswapper/blob/master/bill-steve.jpg" alt="Bill Gates and Steve Jobs" width="100" height="250"></a>
+<a href="url"><img src="https://github.com/bluerama/faceswapper/blob/master/trump-putin.jpg" alt="Donald Trump and Vladimir Putin" width="100" height="250"></a>
 
 ## About
 

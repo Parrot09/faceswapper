@@ -1,7 +1,7 @@
 # Face Swapper
 
-![Alt text](./bill-steve.jpg?raw=true "Bill Gates and Steve Jobs")
-![Alt text](./trump-putin.jpg?raw=true "Donald Trump and Vladimir Putin")
+![Alt text](./bill-steve.jpg?raw=true "Bill Gates and Steve Jobs" | width=100)
+![Alt text](./trump-putin.jpg?raw=true "Donald Trump and Vladimir Putin" | width=100)
 
 ## About
 
